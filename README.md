@@ -9,7 +9,7 @@
 
 🌱 **About Me**  
 - 🎓 Student & lifelong learner  
-- 💻 Beginner programmer (Java, Python)  
+- 💻 Beginner programmer
 - 🐧 I use Arch, btw!
 - 🚀 Exploring open source, building projects, and having fun along the way
 
