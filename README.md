@@ -37,7 +37,6 @@
 | Project                                                           | Description                          |
 |-------------------------------------------------------------------|--------------------------------------|
 | [QuanLyDiem](https://github.com/noqokhxnh/QuanLyDiem)             | Student grade management             |
-| [HiddenFileReader](https://github.com/noqokhxnh/HiddenFileReader) | Tool for reading hidden files        |
 | [TrafficSign](https://github.com/noqokhxnh/TrafficSign)           | Traffic sign detection/classification|
 | [fixing_lag_claude_chat](https://github.com/noqokhxnh/fixing_lag_claude_chat) | Chat performance improvements |
 
