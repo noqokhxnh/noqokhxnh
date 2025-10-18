@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-| Languages   | Tools & Frameworks         | OS         |
+| Languages   | Tools         | OS         |
 |-------------|---------------------------|------------|
 | Java, Python|NeoVim, Qwen CLI| Arch Linux |
  
