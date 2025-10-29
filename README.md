@@ -32,15 +32,6 @@
  
 ---
 
-## 📚 Featured Projects
-
-| Project                                                           | Description                          |
-|-------------------------------------------------------------------|--------------------------------------|
-
-| [TrafficSign](https://github.com/noqokhxnh/TrafficSign)           | Traffic sign detection/classification|
-| [fixing_lag_claude_chat](https://github.com/noqokhxnh/fixing_lag_claude_chat) | Chat performance improvements |
-
----
 
 ## 📈 GitHub Stats
 
