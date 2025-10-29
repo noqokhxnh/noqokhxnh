@@ -36,7 +36,7 @@
 
 | Project                                                           | Description                          |
 |-------------------------------------------------------------------|--------------------------------------|
-| [QuanLyDiem](https://github.com/noqokhxnh/QuanLyDiem)             | Student grade management             |
+
 | [TrafficSign](https://github.com/noqokhxnh/TrafficSign)           | Traffic sign detection/classification|
 | [fixing_lag_claude_chat](https://github.com/noqokhxnh/fixing_lag_claude_chat) | Chat performance improvements |
 
@@ -67,7 +67,7 @@
 
 ---
 
-<p align="center"><i>“Yêu nghĩa là trong lòng ta sẽ chết đi từng chút </i></p>
-<p align="center"><i>Và cái chết đó vẫn diễn ra, trong từng giờ, trong từng phút.” </i></p>
+<p align="center"><i>“Mày phải đợi thời gian mới biết được ai đúng, ai sai </i></p>
+<p align="center"><i>Còn việc tao làm là vẽ ra trước tương lai” </i></p>
 
 <p align="center">_Thanks for stopping by! Have a great day!_ 🚀</p>
