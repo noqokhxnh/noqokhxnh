@@ -61,4 +61,4 @@
 <p align="center"><i>“Mày phải đợi thời gian mới biết được ai đúng, ai sai </i></p>
 <p align="center"><i>Còn việc tao làm là vẽ ra trước tương lai” </i></p>
 
-<p align="center">_Thanks for stopping by! Have a great day!_ 🚀</p>
+<!-- <p align="center">_Thanks for stopping by! Have a great day!_ 🚀</p> -->
