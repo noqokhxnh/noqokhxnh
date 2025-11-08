@@ -47,7 +47,7 @@
 
 - 🎶 **Music:** Rap  
 - 🍔 **Food:** Boom Away  
-- 📚 **Learning:** AI, Web Dev, Flutter
+- 📚 **Learning:** DevOps
 
 ---
 
