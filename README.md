@@ -28,7 +28,7 @@
 
 | Languages   | Tools         | OS         |
 |-------------|---------------------------|------------|
-| Java, Python|NeoVim, Qwen CLI| Arch Linux |
+| Java, Bash|NeoVim, Zed| Arch Linux |
  
 ---
 
