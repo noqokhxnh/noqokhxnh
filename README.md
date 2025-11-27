@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Student-Learning-blue"/>
   <img src="https://img.shields.io/badge/Open%20Source-FF69B4?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Fun-FFA500?style=flat&logo=smile"/>
+  <!-- <img src="https://img.shields.io/badge/Fun-FFA500?style=flat&logo=smile"/> -->
 </p>
 
 ---
@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noqokhxnh&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noqokhxnh&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noqokhxnh&theme=radical" height="150"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=noqokhxnh&theme=radical" height="150"/> -->
 </p>
 
 ---
@@ -51,12 +51,12 @@
 
 ---
 
-## 🤝 Let's Connect & Collab!
+<!--## 🤝 Let's Connect & Collab!
 
-- 💬 DM me on GitHub
+ 💬 DM me on GitHub
 - 🚀 Fun fact: I code, I snack, I repeat 😎
-
 ---
+-->
 
 <p align="center"><i>“Mày phải đợi thời gian mới biết được ai đúng, ai sai </i></p>
 <p align="center"><i>Còn việc tao làm là vẽ ra trước tương lai” </i></p>
