@@ -77,18 +77,18 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 </div>
 
+
+
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanh2k5xxx@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/noqokhxnh)
 
 </div>
-
 ---
 
 ## 💬 Fun Facts
@@ -99,8 +99,11 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 - 🌍 Interested in **open-source contributions** and **collaborative development**
 
 ---
-
-<div>
-    <p align="center"><b><i>Mày phải đợi thời gian mới biết được ai đúng, ai sai</i></b></p>
-    <p align="center"><b><i>Còn việc tao làm, là vẽ ra trước tương lai</i></b></p>   
+<div align="center" style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, rgba(70,130,180,0.1) 0%, rgba(100,149,237,0.1) 100%); border-radius: 10px; border-left: 4px solid #4682B4;">
+    <p style="font-size:  16px; font-weight:  bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
+         Mày phải đợi thời gian mới biết được ai đúng, ai sai 
+    </p>
+    <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style:  italic; letter-spacing: 1px;">
+        Còn việc tao làm, là vẽ ra trước tương lai 
+    </p>   
 </div>
