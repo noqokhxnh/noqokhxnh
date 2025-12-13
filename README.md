@@ -1,27 +1,106 @@
-# Project Repository
+# 👋 Welcome to my GitHub Profile!
 
-## Commit History
+<div align="center">
 
-```
-╔════════════════════════════════════════╗
-║       📊 REPOSITORY STATISTICS         ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  Total Commits:  326                   ║
-║  Last Updated:   2025-12-13 08:00:31   ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=noqokhxnh&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/noqokhxnh?logo=github&style=flat-square)](https://github.com/noqokhxnh)
 
-### Commit Timeline
-
-| Metric | Value |
-|--------|-------|
-| 📈 Total Commits | **326** |
-| 🔄 Active Development | ✅ Yes |
-| 📅 Last Update | 2025-12-13 |
-| 🏗️ Repository Status | Active |
+</div>
 
 ---
 
-*This README showcases the project's commit history with a total of **326 commits** tracking the development progress and contributions over time.*
+## 🚀 About Me
+
+I'm a passionate developer dedicated to creating innovative solutions and contributing to open-source projects. I love exploring new technologies and pushing the boundaries of what's possible in software development.
+
+### 💼 Current Focus
+- Building scalable applications
+- Contributing to meaningful open-source projects
+- Learning cutting-edge technologies
+- Mentoring fellow developers
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noqokhxnh&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285f4?style=flat-square&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noqokhxnh&theme=dark&hide_border=true)](https://github.com/noqokhxnh)
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| Achievement | Status |
+|---|---|
+| 🎯 First Repository | ✅ Completed |
+| 🌟 100+ Contributions | ⏳ In Progress |
+| 🔥 Longest Streak | 🚀 Active |
+| 👥 Open Source Contributor | ✅ Active |
+| 💡 Project Creator | ✅ Active |
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanh2k5xxx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/noqokhxnh)
+
+</div>
+
+---
+
+## 💬 Fun Facts
+
+- 📖 I'm an avid reader of **tech blogs** and **documentation**
+- 🎵 I code best with **lo-fi music** playing in the background
+- ☕ Coffee powered developer | *Fuel of choice: Dark roast*
+- 🌍 Interested in **open-source contributions** and **collaborative development**
+
+---
+
+<div>
+    <p align="center"><b><i>Mày phải đợi thời gian mới biết được ai đúng, ai sai</i></b></p>
+    <p align="center"><b><i>Còn việc tao làm, là vẽ ra trước tương lai</i></b></p>   
+</div>
