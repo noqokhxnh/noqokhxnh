@@ -13,6 +13,8 @@
 
 I'm a passionate developer dedicated to creating innovative solutions and contributing to open-source projects. I love exploring new technologies and pushing the boundaries of what's possible in software development.
 
+🌐 **Check out my portfolio:** [noqokhxnh.online](https://noqokhxnh.online)
+
 ### 💼 Current Focus
 - Building scalable applications
 - Contributing to meaningful open-source projects
@@ -77,18 +79,18 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 </div>
 
-
-
 ---
 
-## 🤝 Let's Connect! 
+## 🤝 Let's Connect!
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-noqokhxnh.online-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://noqokhxnh.online)
 [![Email](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanh2k5xxx@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/noqokhxnh)
 
 </div>
+
 ---
 
 ## 💬 Fun Facts
@@ -100,10 +102,10 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 ---
 <div align="center" style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, rgba(70,130,180,0.1) 0%, rgba(100,149,237,0.1) 100%); border-radius: 10px; border-left: 4px solid #4682B4;">
-    <p style="font-size:  16px; font-weight:  bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
-         Mày phải đợi thời gian mới biết được ai đúng, ai sai 
+    <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
+          Mày phải đợi thời gian mới biết được ai đúng, ai sai 
     </p>
     <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style:  italic; letter-spacing: 1px;">
-        Còn việc tao làm, là vẽ ra trước tương lai 
+         Còn việc tao làm, là vẽ ra trước tương lai 
     </p>   
 </div>
