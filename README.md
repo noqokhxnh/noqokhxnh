@@ -1,12 +1,18 @@
-# Project Title
+# Welcome to my Profile!
 
-## GitHub Statistics
+Hello! I'm glad to see you here. Below you can find some information about me:
 
+## About Me
+I am a passionate developer who loves exploring new technologies. 
+
+## Interests
+- Coding
+- Open Source Contributions
+- Machine Learning
+
+## Links
+- [GitHub](https://github.com/noqokhxnh)
+- [LinkedIn](https://linkedin.com/in/noqokhxnh)  
+
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqokhxnh&show_icons=true)
-
-## Badges
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://github.com/noqokhxnh/repo/workflows/CI/badge.svg)
-
-<!-- Add any additional sections here -->
