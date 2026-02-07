@@ -1,18 +1,30 @@
-# Welcome to my Profile!
+# Project Title
 
-Hello! I'm glad to see you here. Below you can find some information about me:
+## Views Counter
+✨ 1500 views
 
-## About Me
-I am a passionate developer who loves exploring new technologies. 
+## Follow Button
+[Follow Me](https://github.com/noqokhxnh)
 
-## Interests
-- Coding
-- Open Source Contributions
-- Machine Learning
+## Badges
 
-## Links
-- [GitHub](https://github.com/noqokhxnh)
-- [LinkedIn](https://linkedin.com/in/noqokhxnh)  
+![HTML](https://img.shields.io/badge/HTML5-FF5722?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1976D2?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=flat-square&logo=javascript&logoColor=black)
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqokhxnh&show_icons=true)
+## Skills
+### Overview
+- Proficient in HTML, CSS, and JavaScript.
+- Experience with frameworks such as React and Angular.
+
+### Detailed Skills Section
+- **HTML:** Strong understanding and practical experience in building responsive websites.
+- **CSS:** Skilled in creating modern styles, including Flexbox and Grid layout.
+- **JavaScript:** Familiar with ES6 features and asynchronous programming.
+- **React & Angular:** Experience in building single-page applications using modern frontend libraries.
+- **Git:** Proficient in version control and Git workflows.
+
+---
+
+## License
+This project is licensed under the MIT License.
