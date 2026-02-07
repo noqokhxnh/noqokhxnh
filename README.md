@@ -23,13 +23,12 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noqokhxnh&theme=dark&hide_border=true&layout=compact)
+[![noqokhxnh's GitHub stats](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=flat-square&logo=github)](https://github.com/noqokhxnh)
+[![Most used languages](https://img.shields.io/badge/Languages-Python%2C%20Java%2C%20SQL%2C%20HTML%2C%20CSS-success?style=flat-square)](https://github.com/noqokhxnh)
 
 </div>
 
@@ -43,7 +42,7 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
@@ -52,16 +51,6 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285f4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noqokhxnh&theme=dark&hide_border=true)](https://github.com/noqokhxnh)
-
-</div>
 
 ---
 
@@ -101,11 +90,12 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 - 🌍 Interested in **open-source contributions** and **collaborative development**
 
 ---
+
 <div align="center" style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, rgba(70,130,180,0.1) 0%, rgba(100,149,237,0.1) 100%); border-radius: 10px; border-left: 4px solid #4682B4;">
     <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
           Mày phải đợi thời gian mới biết được ai đúng, ai sai 
     </p>
-    <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style:  italic; letter-spacing: 1px;">
-         Còn việc tao làm, là vẽ ra trước tương lai 
+    <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
+          Còn việc tao làm, là vẽ ra trước tương lai 
     </p>   
 </div>
