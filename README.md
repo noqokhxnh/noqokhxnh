@@ -1,28 +1,12 @@
 # Project Title
 
-## Overview
+## GitHub Statistics
 
-This project aims to provide insightful data visualization to enhance understanding of the dataset.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqokhxnh&show_icons=true)
 
-## Statistics
+## Badges
 
-| Metric      | Value       |
-|-------------|-------------|
-| Total Rows  | 1000        |
-| Total Cols  | 10          |
-| From Source | Data Source |
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Build Status](https://github.com/noqokhxnh/repo/workflows/CI/badge.svg)
 
-## Visual Elements
-
-### Charts
-
-- **Bar Chart**: Illustrating the distribution of categories.
-- **Pie Chart**: Showing percentage share of different segments.
-
-### Additional Data Visualizations
-
-![Example Chart](https://example.com/example-chart.png)
-
-## Conclusion
-
-This document serves as a comprehensive guide to the project with vital statistics and visual elements that facilitate a better understanding of the data.
+<!-- Add any additional sections here -->
