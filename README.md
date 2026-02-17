@@ -65,17 +65,6 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-noqokhxnh.online-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://noqokhxnh.online)
-[![Email](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanh2k5xxx@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/noqokhxnh)
-
-</div>
-
----
 
 ## 💬 Fun Facts
 
