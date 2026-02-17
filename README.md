@@ -65,15 +65,6 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 
 
-
-## 💬 Fun Facts
-
-- 📖 I'm an avid reader of **tech blogs** and **documentation**
-- 🎵 I code best with **lo-fi music** playing in the background
-- ☕ Coffee powered developer | *Fuel of choice: Dark roast*
-- 🌍 Interested in **open-source contributions** and **collaborative development**
-
----
 <div align="center" style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, rgba(70,130,180,0.1) 0%, rgba(100,149,237,0.1) 100%); border-radius: 10px; border-left: 4px solid #4682B4;">
     <p style="font-size: 16px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
           Mày phải đợi thời gian mới biết được ai đúng, ai sai 
