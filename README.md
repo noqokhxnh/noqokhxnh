@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub Profile!
+#  Welcome to my GitHub Profile!
 
 <div align="center">
 
@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate developer dedicated to creating innovative solutions and contributing to open-source projects. I love exploring new technologies and pushing the boundaries of what's possible in software development.
 
-🌐 **Check out my portfolio:** [noqokhxnh.online](https://noqokhxnh.online)
+ **Check out my portfolio:** [noqokhxnh.online](https://noqokhxnh.online)
 
-### 💼 Current Focus
+###  Current Focus
 - Building scalable applications
 - Contributing to meaningful open-source projects
 - Learning cutting-edge technologies
@@ -23,7 +23,7 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
@@ -55,7 +55,7 @@ I'm a passionate developer dedicated to creating innovative solutions and contri
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
