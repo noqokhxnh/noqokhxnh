@@ -54,14 +54,14 @@ I thrive on solving challenging problems and contributing to the open‑source c
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4682B4&icon_color=4682B4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=4682B4)
+![GitHub Stats](./assets/stats.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4)](https://github.com/noqokhxnh)
+![Top Languages](./assets/top-langs.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true)
+![GitHub Streak](./assets/streak.svg)
+
+![Activity Graph](./assets/activity.svg)
 
 </div>
 
