@@ -7,7 +7,7 @@
 
 </div>
 
----
+
 
 <div style="background: linear-gradient(135deg, rgba(70,130,180,0.15) 0%, rgba(100,149,237,0.1) 100%); padding: 25px; border-radius: 16px; border-left: 6px solid #4682B4; margin: 20px 0;">
 
@@ -49,7 +49,7 @@ I thrive on solving challenging problems and contributing to the open‑source c
 
 </div>
 
----
+
 
 ## 📊 GitHub Statistics
 <div align="center">
@@ -63,7 +63,7 @@ I thrive on solving challenging problems and contributing to the open‑source c
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true)
 
 </div>
----
+
 
 <div align="center" style="margin-top: 40px; padding: 30px; background: #0d1117; border-radius: 16px; border-left: 6px solid #4682B4; box-shadow: 0 4px 15px rgba(70,130,180,0.2);">
   <p style="font-size: 18px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
@@ -74,7 +74,7 @@ I thrive on solving challenging problems and contributing to the open‑source c
   </p>
 </div>
 
----
+
 
 <div align="center" style="margin-top: 30px;">
   <a href="https://noqokhxnh.online" target="_blank">
