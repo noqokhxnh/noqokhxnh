@@ -52,19 +52,13 @@ I thrive on solving challenging problems and contributing to the open‑source c
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
 
-![GitHub Stats](./assets/stats.svg)
 
-![Top Languages](./assets/top-langs.svg)
 
 ![GitHub Streak](./assets/streak.svg)
 
 ![Activity Graph](./assets/activity.svg)
-
-</div>
-
 ---
 
 <div align="center" style="margin-top: 40px; padding: 30px; background: #0d1117; border-radius: 16px; border-left: 6px solid #4682B4; box-shadow: 0 4px 15px rgba(70,130,180,0.2);">
