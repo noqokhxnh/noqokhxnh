@@ -2,18 +2,18 @@ name: 📊 Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'     # chạy lúc 0h UTC mỗi ngày
-  workflow_dispatch:         # cho phép chạy tay
+    - cron: '0 0 * * *'     # 0h UTC mỗi ngày
+  workflow_dispatch:         # chạy tay nếu muốn
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # cần quyền ghi để commit & push
+      contents: write        # để push commit
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v5   # ✅ dùng v5 để tránh warning Node.js 20
+        uses: actions/checkout@v5   # tránh warning Node.js 20
 
       - name: Create assets directory
         run: mkdir -p assets
@@ -21,12 +21,12 @@ jobs:
       - name: Download GitHub Stats
         run: |
           curl --fail -s -o assets/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+            "https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&token=${{ secrets.STATS_TOKEN }}"
 
       - name: Download Top Languages
         run: |
           curl --fail -s -o assets/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
+            "https://github-readme-stats.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact&token=${{ secrets.STATS_TOKEN }}"
 
       - name: Download Streak Stats
         run: |
