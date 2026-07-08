@@ -1,0 +1,48 @@
+name: 📊 Update GitHub Stats
+
+on:
+  schedule:
+    # Chạy vào 0h UTC mỗi ngày (có thể đổi giờ)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Cho phép chạy tay từ tab Actions
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Cần quyền ghi để push commit
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Download GitHub Stats
+        run: |
+          curl -s -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+
+      - name: Download Top Languages
+        run: |
+          curl -s -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
+
+      - name: Download Streak Stats
+        run: |
+          curl -s -o assets/streak.svg "https://streak-stats.demolab.com?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4"
+
+      - name: Download Activity Graph
+        run: |
+          curl -s -o assets/activity.svg "https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "📈 Update GitHub stats [skip ci]"
+            git push
+          fi
