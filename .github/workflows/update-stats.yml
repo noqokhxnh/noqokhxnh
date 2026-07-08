@@ -21,12 +21,12 @@ jobs:
       - name: Download GitHub Stats
         run: |
           curl --fail -s -o assets/stats.svg \
-            "https://grs.quantumly.dev/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+            "https://gh-readme-stats-psi.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
 
       - name: Download Top Languages
         run: |
           curl --fail -s -o assets/top-langs.svg \
-            "https://grs.quantumly.dev/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
+            "https://gh-readme-stats-psi.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
 
       - name: Download Streak Stats
         run: |
