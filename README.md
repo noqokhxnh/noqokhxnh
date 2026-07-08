@@ -58,7 +58,7 @@ I thrive on solving challenging problems and contributing to the open‑source c
 
 ![Top Languages](https://gh-readme-stats-psi.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true)
 

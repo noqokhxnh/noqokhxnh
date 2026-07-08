@@ -31,7 +31,7 @@ jobs:
       - name: Download Streak Stats
         run: |
           curl --fail -s -o assets/streak.svg \
-            "https://streak-stats.demolab.com?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4"
+            "https://github-readme-streak-stats-eight.vercel.app?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4"
 
       - name: Download Activity Graph
         run: |
