@@ -2,38 +2,41 @@ name: 📊 Update GitHub Stats
 
 on:
   schedule:
-    # Chạy vào 0h UTC mỗi ngày (có thể đổi giờ)
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # Cho phép chạy tay từ tab Actions
+    - cron: '0 0 * * *'     # chạy lúc 0h UTC mỗi ngày
+  workflow_dispatch:         # cho phép chạy tay
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Cần quyền ghi để push commit
+      contents: write        # cần quyền ghi để commit & push
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5   # ✅ dùng v5 để tránh warning Node.js 20
 
       - name: Create assets directory
         run: mkdir -p assets
 
       - name: Download GitHub Stats
         run: |
-          curl -s -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+          curl --fail -s -o assets/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
 
       - name: Download Top Languages
         run: |
-          curl -s -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
+          curl --fail -s -o assets/top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
 
       - name: Download Streak Stats
         run: |
-          curl -s -o assets/streak.svg "https://streak-stats.demolab.com?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4"
+          curl --fail -s -o assets/streak.svg \
+            "https://streak-stats.demolab.com?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4"
 
       - name: Download Activity Graph
         run: |
-          curl -s -o assets/activity.svg "https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true"
+          curl --fail -s -o assets/activity.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true"
 
       - name: Commit and push if changed
         run: |
