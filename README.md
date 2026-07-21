@@ -67,10 +67,10 @@ I thrive on solving challenging problems and contributing to the open‑source c
 
 <div align="center" style="margin-top: 40px; padding: 30px; background: #0d1117; border-radius: 16px; border-left: 6px solid #4682B4; box-shadow: 0 4px 15px rgba(70,130,180,0.2);">
   <p style="font-size: 18px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
-    “Mày phải đợi thời gian mới biết được ai đúng, ai sai”
+    “Mày phải đợi thời gian mới biết được ai đúng, ai sai
   </p>
   <p style="font-size: 18px; font-weight: bold; color: #4682B4; margin: 10px 0; font-style: italic; letter-spacing: 1px;">
-    “Còn việc tao làm, là vẽ ra trước tương lai”
+    Còn việc tao làm, là vẽ ra trước tương lai”
   </p>
 </div>
 
