@@ -11,35 +11,35 @@
 
 <div style="background: linear-gradient(135deg, rgba(70,130,180,0.15) 0%, rgba(100,149,237,0.1) 100%); padding: 25px; border-radius: 16px; border-left: 6px solid #4682B4; margin: 20px 0;">
 
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a passionate developer who loves crafting clean code and turning ideas into reality.  
 I thrive on solving challenging problems and contributing to the open‑source community.
 
-🌐 **Portfolio:** [noqokhxnh.online](https://noqokhxnh.online)
+**Portfolio:** [noqokhxnh.online](https://noqokhxnh.online)
 
-### 🎯 Current Focus
-- 🚀 **Building scalable applications** – from backend architecture to delightful user interfaces  
-- 🤝 **Contributing to meaningful open-source projects** – because great software is built together  
-- 📚 **Learning cutting-edge technologies** – always curious about what's next  
-- 👨‍🏫 **Mentoring fellow developers** – sharing knowledge lifts everyone up
+###  Current Focus
+-  **Building scalable applications** – from backend architecture to delightful user interfaces  
+-  **Contributing to meaningful open-source projects** – because great software is built together  
+-  **Learning cutting-edge technologies** – always curious about what's next  
+-  **Mentoring fellow developers** – sharing knowledge lifts everyone up
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🗣️ Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -51,7 +51,7 @@ I thrive on solving challenging problems and contributing to the open‑source c
 
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <div align="center">
 
 ![GitHub Stats](https://gh-readme-stats-psi.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
