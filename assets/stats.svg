@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kh&#225;nh Nguy&#7877;n's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits in 2026 : 190, Total PRs: 27, Total Issues: 2, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits in 2026 : 191, Total PRs: 27, Total Issues: 2, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.28349911131855;
+        stroke-dashoffset: 200.21501507576122;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >190</text>
+      >191</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
