@@ -20,23 +20,29 @@ jobs:
 
       - name: Download GitHub Stats
         run: |
-          curl --fail -s -o assets/stats.svg \
-            "https://gh-readme-stats-psi.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+          curl --fail -s -o assets/stats.svg.tmp \
+            "https://gh-readme-stats-psi.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" && \
+            mv assets/stats.svg.tmp assets/stats.svg || echo "Failed to update stats.svg, keeping existing"
 
       - name: Download Top Languages
         run: |
-          curl --fail -s -o assets/top-langs.svg \
-            "https://gh-readme-stats-psi.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact"
+          curl --fail -s -o assets/top-langs.svg.tmp \
+            "https://gh-readme-stats-psi.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact" && \
+            mv assets/top-langs.svg.tmp assets/top-langs.svg || echo "Failed to update top-langs.svg, keeping existing"
 
       - name: Download Streak Stats
         run: |
-          curl --fail -s -o assets/streak.svg \
-            "https://github-readme-streak-stats-eight.vercel.app?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4"
+          curl --fail -s -o assets/streak.svg.tmp \
+            "https://github-readme-streak-stats-eight.vercel.app?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4" && \
+            mv assets/streak.svg.tmp assets/streak.svg || echo "Failed to update streak.svg, keeping existing"
 
-      - name: Download Activity Graph
-        run: |
-          curl --fail -s -o assets/activity.svg \
-            "https://github-readme-activity-graph.vercel.app/graph?username=noqokhxnh&theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true"
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@master
+        with:
+          username: noqokhxnh
+          output_path: assets/activity.svg
+          options: "theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true"
+        continue-on-error: true
 
       - name: Commit and push if changed
         run: |
