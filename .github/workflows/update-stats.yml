@@ -37,7 +37,7 @@ jobs:
             mv assets/streak.svg.tmp assets/streak.svg || echo "Failed to update streak.svg, keeping existing"
 
       - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@master
+        uses: maurodesouza/github-readme-activity-graph-action@v1.0.0
         with:
           username: noqokhxnh
           output_path: assets/activity.svg
