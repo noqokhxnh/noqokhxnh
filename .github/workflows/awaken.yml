@@ -1,0 +1,34 @@
+name: Awaken
+
+on:
+  schedule:
+    - cron: "10 17 * * *" # 00:10 in UTC+7 (Asia/Ho_Chi_Minh)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - awaken.json
+      - .github/workflows/awaken.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: awaken
+  cancel-in-progress: true
+
+jobs:
+  awaken:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Awaken Profile
+        uses: billtruong003/git-profile-awaken@main
+        with:
+          token: ${{ secrets.AWAKEN_TOKEN || secrets.GITHUB_TOKEN }}
+          config: awaken.json
+          commit: 'true'
+          commit-message: 'chore(awaken): sync the System [skip ci]'

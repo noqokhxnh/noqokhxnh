@@ -1,0 +1,23 @@
+{
+  "username": "noqokhxnh",
+  "theme": "solo_leveling",
+  "layout": "bento",
+  "activity": "arise",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "icons": "brand",
+  "motion": "full",
+  "hours": true,
+  "title": "auto",
+  "arsenal": [
+    "Python",
+    "Java",
+    "PostgreSQL",
+    "Docker",
+    "Linux",
+    "AWS",
+    "Google Cloud",
+    "Git",
+    "HTML5",
+    "CSS3"
+  ]
+}
