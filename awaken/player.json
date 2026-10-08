@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9776445325618124,
+  "overallPercentile": 0.9776756711583683,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 691,
+      "value": 692,
       "rank": "S",
-      "percentile": 0.9559562634751333
+      "percentile": 0.956043800213693
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 691
+      "value": 692
     },
     {
       "id": "unbroken",
@@ -195,5 +195,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-08T03:38:11.955Z"
+  "syncedAt": "2026-10-08T03:44:49.354Z"
 }
