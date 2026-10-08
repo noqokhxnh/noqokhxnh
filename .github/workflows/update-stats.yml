@@ -1,8 +1,8 @@
-name: 📊 Update GitHub Stats & Contribution Art
+name: 🌱 Daily Contributions & Keep Streak
 
 on:
   schedule:
-    - cron: '0 0 * * *'     # 0h UTC mỗi ngày
+    - cron: '0 0 * * *'     # 0h UTC (07:00 AM VN) mỗi ngày
   workflow_dispatch:         # chạy tay nếu muốn
     inputs:
       preview_only:
@@ -22,14 +22,14 @@ on:
         default: false
 
 jobs:
-  update-stats:
+  daily-contributions:
     runs-on: ubuntu-latest
     permissions:
       contents: write        # để push commit
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v5   # tránh warning Node.js 20
+        uses: actions/checkout@v4
 
       - name: Preview Contribution Graph
         if: ${{ inputs.preview_only == true }}
@@ -39,36 +39,6 @@ jobs:
       - name: Create assets directory
         if: ${{ inputs.preview_only != true }}
         run: mkdir -p assets
-
-      - name: Download GitHub Stats
-        if: ${{ inputs.preview_only != true }}
-        run: |
-          curl --fail -s -o assets/stats.svg.tmp \
-            "https://gh-readme-stats-psi.vercel.app/api?username=noqokhxnh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" && \
-            mv assets/stats.svg.tmp assets/stats.svg || echo "Failed to update stats.svg, keeping existing"
-
-      - name: Download Top Languages
-        if: ${{ inputs.preview_only != true }}
-        run: |
-          curl --fail -s -o assets/top-langs.svg.tmp \
-            "https://gh-readme-stats-psi.vercel.app/api/top-langs?username=noqokhxnh&theme=tokyonight&hide_border=true&layout=compact" && \
-            mv assets/top-langs.svg.tmp assets/top-langs.svg || echo "Failed to update top-langs.svg, keeping existing"
-
-      - name: Download Streak Stats
-        if: ${{ inputs.preview_only != true }}
-        run: |
-          curl --fail -s -o assets/streak.svg.tmp \
-            "https://github-readme-streak-stats-eight.vercel.app?user=noqokhxnh&theme=tokyonight&hide_border=true&background=0D1117&ring=4682B4&fire=4682B4&currStreakLabel=4682B4" && \
-            mv assets/streak.svg.tmp assets/streak.svg || echo "Failed to update streak.svg, keeping existing"
-
-      - name: Generate Activity Graph
-        if: ${{ inputs.preview_only != true }}
-        uses: maurodesouza/github-readme-activity-graph-action@v1.0.0
-        with:
-          username: noqokhxnh
-          output_path: assets/activity.svg
-          options: "theme=react-dark&hide_border=true&bg_color=0d1117&color=4682B4&line=4682B4&point=FFFFFF&area=true"
-        continue-on-error: true
 
       - name: Generate Daily Contributions & Commit
         if: ${{ inputs.preview_only != true }}

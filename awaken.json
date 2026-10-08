@@ -2,6 +2,14 @@
   "username": "noqokhxnh",
   "theme": "valorant",
   "layout": "bento",
+  "bento": [
+    ["hunter"],
+    ["ladder", "web"],
+    ["skills", "quest"],
+    ["oracle", "daily"],
+    ["activity"],
+    ["contribution", "combat", "hours"]
+  ],
   "activity": "raid",
   "timezone": "Asia/Ho_Chi_Minh",
   "icons": "brand",
@@ -20,10 +28,10 @@
     "HTML5",
     "CSS3"
   ],
-    "quotes":[
-        "dry", {
-        "text": "Mày phải đợi thời gian mới biết được ai đúng, ai sai: Còn việc tao làm là vẽ ra trước tương lai",
-        "author": "noqokhxnh"
-        }
-    ]
+  "quotes": [
+    {
+      "text": "Mày phải đợi thời gian mới biết được ai đúng, ai sai. Còn việc tao làm là vẽ ra trước tương lai",
+      "author": "noqokhxnh"
+    }
+  ]
 }
