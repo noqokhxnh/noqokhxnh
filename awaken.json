@@ -1,8 +1,8 @@
 {
   "username": "noqokhxnh",
-  "theme": "ink_wash",
+  "theme": "valorant",
   "layout": "bento",
-  "activity": "arise",
+  "activity": "raid",
   "timezone": "Asia/Ho_Chi_Minh",
   "icons": "brand",
   "motion": "full",
@@ -19,5 +19,11 @@
     "Git",
     "HTML5",
     "CSS3"
-  ]
+  ],
+    "quotes":[
+        "dry", {
+        "text": "Mày phải đợi thời gian mới biết được ai đúng, ai sai: Còn việc tao làm là vẽ ra trước tương lai",
+        "author": "noqokhxnh"
+        }
+    ]
 }
