@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9777378143041182,
+  "overallPercentile": 0.9777688191095188,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 694,
+      "value": 695,
       "rank": "S",
-      "percentile": 0.9562180774193111
+      "percentile": 0.9563048201011494
     },
     {
       "code": "AGI",
@@ -48,7 +48,22 @@
       "percentile": 0.8823467386925528
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-08T22:01:41.616Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-08T22:01:41.616Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 694
+      "value": 695
     },
     {
       "id": "unbroken",
@@ -148,22 +163,22 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 5
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -172,28 +187,37 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-08",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-07",
         "cleared": 2,
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 2,
-    "bosses": [],
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 5,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 0,
     "kinds": [
       "contribute",
-      "commit"
+      "commit",
+      "star",
+      "streak"
     ]
   },
-  "syncedAt": "2026-10-08T03:51:13.309Z"
+  "syncedAt": "2026-10-08T22:01:41.616Z"
 }
