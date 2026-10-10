@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9777997795731548,
+  "overallPercentile": 0.9782097848236888,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 696,
+      "value": 700,
       "rank": "S",
-      "percentile": 0.9563913003022843
+      "percentile": 0.9567346180639631
     },
     {
       "code": "AGI",
-      "value": 52,
+      "value": 53,
       "rank": "S",
-      "percentile": 0.9623804115675303
+      "percentile": 0.9633167633052487
     },
     {
       "code": "INT",
@@ -68,7 +68,7 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 46
+      "value": 47
     },
     {
       "id": "quickdraw",
@@ -78,22 +78,22 @@
     {
       "id": "yolo",
       "tier": 2,
-      "value": 40
+      "value": 41
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 696
+      "value": 700
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 103
+      "value": 104
     },
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 10
+      "value": 11
     },
     {
       "id": "early-bird",
@@ -118,7 +118,7 @@
     {
       "id": "flawless",
       "tier": 1,
-      "value": 88
+      "value": 89
     },
     {
       "id": "healer",
@@ -158,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 242
+      "value": 243
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 7
+      "value": 10
     },
     {
       "id": "boss-slayer",
@@ -188,11 +188,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-10",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-09",
         "cleared": 2,
@@ -209,10 +214,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 7,
+    "questsDone": 10,
     "bosses": [
       "2026-10-05"
     ],
@@ -222,8 +227,9 @@
       "commit",
       "star",
       "streak",
-      "mp"
+      "mp",
+      "average"
     ]
   },
-  "syncedAt": "2026-10-09T21:38:47.736Z"
+  "syncedAt": "2026-10-10T20:33:28.732Z"
 }
