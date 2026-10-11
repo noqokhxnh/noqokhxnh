@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9782097848236888,
+  "overallPercentile": 0.9782405254686743,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 700,
+      "value": 701,
       "rank": "S",
-      "percentile": 0.9567346180639631
+      "percentile": 0.9568198021339126
     },
     {
       "code": "AGI",
@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-11T20:57:01.561Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "boss-slayer",
       "from": "0",
       "to": "1",
@@ -83,12 +90,12 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 700
+      "value": 701
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 104
+      "value": 105
     },
     {
       "id": "night-owl",
@@ -158,22 +165,22 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 243
+      "value": 244
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 10
+      "value": 13
     },
     {
       "id": "boss-slayer",
@@ -187,12 +194,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-11",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-10",
         "cleared": 3,
@@ -214,10 +226,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 1,
-    "bestRun": 1,
-    "questsDone": 10,
+    "perfectDays": 3,
+    "run": 2,
+    "bestRun": 2,
+    "questsDone": 13,
     "bosses": [
       "2026-10-05"
     ],
@@ -228,8 +240,9 @@
       "star",
       "streak",
       "mp",
-      "average"
+      "average",
+      "two-repos"
     ]
   },
-  "syncedAt": "2026-10-10T20:33:28.732Z"
+  "syncedAt": "2026-10-11T20:57:01.561Z"
 }
