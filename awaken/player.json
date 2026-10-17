@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 13,
   "overall": "SS",
-  "overallPercentile": 0.9814205892937438,
+  "overallPercentile": 0.9826773222362744,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 792,
+      "value": 793,
       "rank": "S",
-      "percentile": 0.9636186630888751
+      "percentile": 0.963684106961481
     },
     {
       "code": "AGI",
-      "value": 69,
-      "rank": "S",
-      "percentile": 0.9745859999261037
+      "value": 96,
+      "rank": "SS",
+      "percentile": 0.984697119337842
     },
     {
       "code": "INT",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-10-17T19:19:13.795Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -97,40 +104,33 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-13T21:49:22.605Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-11T20:57:01.561Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 63
+      "value": 88
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 37
+      "value": 55
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 56
+      "value": 81
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 792
+      "value": 793
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 110
+      "value": 111
     },
     {
       "id": "night-owl",
@@ -145,7 +145,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 24
+      "value": 25
     },
     {
       "id": "gate-opener",
@@ -160,7 +160,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 91
+      "value": 92
     },
     {
       "id": "healer",
@@ -200,7 +200,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 249
+      "value": 250
     },
     {
       "id": "daily-grinder",
@@ -215,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 24
+      "value": 25
     },
     {
       "id": "boss-slayer",
@@ -235,6 +235,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -289,7 +294,7 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 24,
+    "questsDone": 25,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -306,5 +311,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-16T19:55:42.998Z"
+  "syncedAt": "2026-10-17T19:19:13.795Z"
 }
