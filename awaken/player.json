@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9852078796500734,
+  "overallPercentile": 0.9853576266181389,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1131,
+      "value": 1132,
       "rank": "S",
-      "percentile": 0.9786355741961141
+      "percentile": 0.9786650476551351
     },
     {
       "code": "AGI",
@@ -25,9 +25,9 @@
     },
     {
       "code": "INT",
-      "value": 43,
-      "rank": "S",
-      "percentile": 0.9787823563840601
+      "value": 46,
+      "rank": "SS",
+      "percentile": 0.9806989097711827
     },
     {
       "code": "VIT",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "INT",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-10-22T20:32:19.444Z"
+    },
     {
       "kind": "level",
       "subject": "Level",
@@ -90,20 +97,6 @@
       "from": "12",
       "to": "13",
       "at": "2026-10-16T19:55:42.998Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "yolo",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-15T20:18:53.893Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "flawless",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-15T20:18:53.893Z"
     }
   ],
   "achievements": [
@@ -125,12 +118,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1131
+      "value": 1132
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 115
+      "value": 116
     },
     {
       "id": "night-owl",
@@ -200,12 +193,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 250
+      "value": 251
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 7
+      "value": 8
     },
     {
       "id": "perfect-week",
@@ -215,12 +208,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 35
+      "value": 38
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -235,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-22",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-21",
         "cleared": 3,
@@ -311,11 +309,12 @@
         "total": 3
       }
     ],
-    "perfectDays": 7,
-    "run": 1,
+    "perfectDays": 8,
+    "run": 2,
     "bestRun": 3,
-    "questsDone": 35,
+    "questsDone": 38,
     "bosses": [
+      "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
@@ -331,5 +330,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-21T20:35:36.379Z"
+  "syncedAt": "2026-10-22T20:32:19.444Z"
 }
