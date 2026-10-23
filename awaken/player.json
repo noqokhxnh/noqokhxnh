@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9853576266181389,
+  "overallPercentile": 0.9853619002220156,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1132,
+      "value": 1133,
       "rank": "S",
-      "percentile": 0.9786650476551351
+      "percentile": 0.9786944608424585
     },
     {
       "code": "AGI",
@@ -90,13 +90,6 @@
       "from": "S",
       "to": "SS",
       "at": "2026-10-17T19:19:13.795Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "12",
-      "to": "13",
-      "at": "2026-10-16T19:55:42.998Z"
     }
   ],
   "achievements": [
@@ -118,12 +111,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1132
+      "value": 1133
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 116
+      "value": 117
     },
     {
       "id": "night-owl",
@@ -193,7 +186,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 251
+      "value": 252
     },
     {
       "id": "daily-grinder",
@@ -208,7 +201,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 38
+      "value": 40
     },
     {
       "id": "boss-slayer",
@@ -228,6 +221,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 3,
@@ -310,9 +308,9 @@
       }
     ],
     "perfectDays": 8,
-    "run": 2,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 38,
+    "questsDone": 40,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -330,5 +328,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-22T20:32:19.444Z"
+  "syncedAt": "2026-10-23T20:23:31.800Z"
 }
