@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9853619002220156,
+  "overallPercentile": 0.9853661700696567,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1133,
+      "value": 1134,
       "rank": "S",
-      "percentile": 0.9786944608424585
+      "percentile": 0.9787238139244805
     },
     {
       "code": "AGI",
@@ -83,13 +83,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-21T20:35:36.379Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "S",
-      "to": "SS",
-      "at": "2026-10-17T19:19:13.795Z"
     }
   ],
   "achievements": [
@@ -111,12 +104,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1133
+      "value": 1134
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 117
+      "value": 118
     },
     {
       "id": "night-owl",
@@ -186,12 +179,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 252
+      "value": 253
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 8
+      "value": 9
     },
     {
       "id": "perfect-week",
@@ -201,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 40
+      "value": 43
     },
     {
       "id": "boss-slayer",
@@ -216,11 +209,16 @@
     {
       "id": "collector",
       "tier": 2,
-      "value": 8
+      "value": 9
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-24",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-23",
         "cleared": 2,
@@ -307,10 +305,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 8,
-    "run": 0,
+    "perfectDays": 9,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 40,
+    "questsDone": 43,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -325,8 +323,9 @@
       "mp",
       "average",
       "two-repos",
-      "three"
+      "three",
+      "weekend"
     ]
   },
-  "syncedAt": "2026-10-23T20:23:31.800Z"
+  "syncedAt": "2026-10-24T19:27:48.027Z"
 }
