@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9853789571410853,
+  "overallPercentile": 0.9853832120296169,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1137,
+      "value": 1138,
       "rank": "S",
-      "percentile": 0.9788115141939605
+      "percentile": 0.9788406285071025
     },
     {
       "code": "AGI",
@@ -50,39 +50,18 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-28T21:38:07.988Z"
+    },
+    {
       "kind": "stat",
       "subject": "INT",
       "from": "S",
       "to": "SS",
       "at": "2026-10-22T20:32:19.444Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "13",
-      "to": "14",
-      "at": "2026-10-21T20:35:36.379Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "relentless",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-21T20:35:36.379Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "berserker",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-21T20:35:36.379Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "daily-grinder",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-21T20:35:36.379Z"
     }
   ],
   "achievements": [
@@ -104,12 +83,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1137
+      "value": 1138
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 121
+      "value": 122
     },
     {
       "id": "night-owl",
@@ -179,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 253
+      "value": 254
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 9
+      "value": 10
     },
     {
       "id": "perfect-week",
@@ -193,8 +172,8 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 48
+      "tier": 1,
+      "value": 51
     },
     {
       "id": "boss-slayer",
@@ -214,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-28",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-27",
         "cleared": 2,
@@ -320,10 +304,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 9,
-    "run": 0,
+    "perfectDays": 10,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 48,
+    "questsDone": 51,
     "bosses": [
       "2026-10-19",
       "2026-10-12",
@@ -342,5 +326,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-27T21:16:26.109Z"
+  "syncedAt": "2026-10-28T21:38:07.988Z"
 }
