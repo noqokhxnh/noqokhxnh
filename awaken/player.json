@@ -1,8 +1,8 @@
 {
   "login": "noqokhxnh",
-  "level": 14,
+  "level": 15,
   "overall": "SS",
-  "overallPercentile": 0.9853832120296169,
+  "overallPercentile": 0.9855293125470628,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1138,
+      "value": 1140,
       "rank": "S",
-      "percentile": 0.9788406285071025
+      "percentile": 0.9788986794502387
     },
     {
       "code": "AGI",
@@ -25,9 +25,9 @@
     },
     {
       "code": "INT",
-      "value": 46,
+      "value": 49,
       "rank": "SS",
-      "percentile": 0.9806989097711827
+      "percentile": 0.9823743766974143
     },
     {
       "code": "VIT",
@@ -50,18 +50,18 @@
   ],
   "events": [
     {
+      "kind": "level",
+      "subject": "Level",
+      "from": "14",
+      "to": "15",
+      "at": "2026-10-29T21:45:44.441Z"
+    },
+    {
       "kind": "achievement",
       "subject": "quest-hunter",
       "from": "0",
       "to": "1",
       "at": "2026-10-28T21:38:07.988Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "INT",
-      "from": "S",
-      "to": "SS",
-      "at": "2026-10-22T20:32:19.444Z"
     }
   ],
   "achievements": [
@@ -83,12 +83,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1138
+      "value": 1140
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 122
+      "value": 123
     },
     {
       "id": "night-owl",
@@ -158,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 254
+      "value": 255
     },
     {
       "id": "daily-grinder",
@@ -173,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 51
+      "value": 53
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "escape-artist",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-29",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-28",
         "cleared": 3,
@@ -305,10 +310,11 @@
       }
     ],
     "perfectDays": 10,
-    "run": 1,
+    "run": 0,
     "bestRun": 3,
-    "questsDone": 51,
+    "questsDone": 53,
     "bosses": [
+      "2026-10-26",
       "2026-10-19",
       "2026-10-12",
       "2026-10-05"
@@ -326,5 +332,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-28T21:38:07.988Z"
+  "syncedAt": "2026-10-29T21:45:44.441Z"
 }
