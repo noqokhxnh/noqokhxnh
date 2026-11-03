@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 15,
   "overall": "SS",
-  "overallPercentile": 0.9862957744378558,
+  "overallPercentile": 0.9864557968515695,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1208,
+      "value": 1221,
       "rank": "SS",
-      "percentile": 0.980740103961581
+      "percentile": 0.9810649563651215
     },
     {
       "code": "AGI",
-      "value": 98,
+      "value": 101,
       "rank": "SS",
-      "percentile": 0.9852006532941502
+      "percentile": 0.9859126918296726
     },
     {
       "code": "INT",
@@ -89,27 +89,27 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 90
+      "value": 92
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 55
+      "value": 57
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 83
+      "value": 85
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1208
+      "value": 1221
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 127
+      "value": 128
     },
     {
       "id": "night-owl",
@@ -119,12 +119,12 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 9
+      "value": 11
     },
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 30
     },
     {
       "id": "gate-opener",
@@ -139,12 +139,12 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 92
+      "value": 91
     },
     {
       "id": "healer",
       "tier": 1,
-      "value": 12
+      "value": 17
     },
     {
       "id": "polyglot",
@@ -179,22 +179,22 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 255
+      "value": 256
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 14
+      "value": 15
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 65
+      "value": 68
     },
     {
       "id": "boss-slayer",
@@ -214,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-03",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-02",
         "cleared": 3,
@@ -350,10 +355,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 14,
-    "run": 4,
-    "bestRun": 4,
-    "questsDone": 65,
+    "perfectDays": 15,
+    "run": 5,
+    "bestRun": 5,
+    "questsDone": 68,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
@@ -374,5 +379,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-02T23:51:59.895Z"
+  "syncedAt": "2026-11-03T22:16:12.121Z"
 }
