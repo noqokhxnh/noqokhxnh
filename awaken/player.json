@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 15,
   "overall": "SS",
-  "overallPercentile": 0.9864755811550532,
+  "overallPercentile": 0.9864795283661525,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1226,
+      "value": 1227,
       "rank": "SS",
-      "percentile": 0.9811877474410785
+      "percentile": 0.9812121645230409
     },
     {
       "code": "AGI",
@@ -69,13 +69,6 @@
       "from": "2",
       "to": "3",
       "at": "2026-10-31T20:26:32.513Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "14",
-      "to": "15",
-      "at": "2026-10-29T21:45:44.441Z"
     }
   ],
   "achievements": [
@@ -97,12 +90,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1226
+      "value": 1227
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 129
+      "value": 130
     },
     {
       "id": "night-owl",
@@ -172,12 +165,12 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 257
+      "value": 258
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 15
+      "value": 16
     },
     {
       "id": "perfect-week",
@@ -187,12 +180,12 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 70
+      "value": 73
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "escape-artist",
@@ -207,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-05",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-04",
         "cleared": 2,
@@ -353,11 +351,12 @@
         "total": 3
       }
     ],
-    "perfectDays": 15,
-    "run": 0,
+    "perfectDays": 16,
+    "run": 1,
     "bestRun": 5,
-    "questsDone": 70,
+    "questsDone": 73,
     "bosses": [
+      "2026-11-02",
       "2026-10-26",
       "2026-10-19",
       "2026-10-12",
@@ -377,5 +376,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-04T22:35:27.640Z"
+  "syncedAt": "2026-11-05T22:39:24.619Z"
 }
