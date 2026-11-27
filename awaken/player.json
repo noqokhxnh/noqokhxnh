@@ -2,7 +2,7 @@
   "login": "noqokhxnh",
   "level": 15,
   "overall": "SS",
-  "overallPercentile": 0.9866203172820905,
+  "overallPercentile": 0.9864033075378222,
   "layout": "bento",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1254,
+      "value": 1256,
       "rank": "SS",
-      "percentile": 0.981854136969009
+      "percentile": 0.9819003975860423
     },
     {
       "code": "AGI",
@@ -43,9 +43,9 @@
     },
     {
       "code": "CHA",
-      "value": 10,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.8938601389299021
+      "percentile": 0.8823467386925528
     }
   ],
   "events": [],
@@ -68,12 +68,12 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1254
+      "value": 1256
     },
     {
       "id": "unbroken",
       "tier": 3,
-      "value": 150
+      "value": 151
     },
     {
       "id": "night-owl",
@@ -122,8 +122,8 @@
     },
     {
       "id": "beacon",
-      "tier": 1,
-      "value": 10
+      "tier": 0,
+      "value": 9
     },
     {
       "id": "guild-hopper",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 275
+      "value": 276
     },
     {
       "id": "daily-grinder",
@@ -158,12 +158,12 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 87
+      "value": 89
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 6
+      "value": 7
     },
     {
       "id": "escape-artist",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-26",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-25",
         "cleared": 2,
@@ -362,8 +367,9 @@
     "perfectDays": 19,
     "run": 0,
     "bestRun": 5,
-    "questsDone": 87,
+    "questsDone": 89,
     "bosses": [
+      "2026-11-23",
       "2026-11-16",
       "2026-11-02",
       "2026-10-26",
@@ -385,5 +391,5 @@
       "issue"
     ]
   },
-  "syncedAt": "2026-11-26T00:58:27.540Z"
+  "syncedAt": "2026-11-27T00:59:25.045Z"
 }
